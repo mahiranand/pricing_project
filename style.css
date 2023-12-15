@@ -27,7 +27,7 @@ body {
   flex-direction: column;
 }
 .title {
-  margin-top: 5rem;
+  margin-top: 3rem;
   box-sizing: border-box;
 }
 .title-text {
